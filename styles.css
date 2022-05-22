@@ -1,0 +1,9 @@
+@media (max-width: 800px) {
+  body{
+    background-color: gray;
+  }
+}
+
+#nav-bar {
+  display: flex;
+}
