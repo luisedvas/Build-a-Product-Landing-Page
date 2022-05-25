@@ -9,17 +9,19 @@
   </head>
   <body>
   <div id="page-wrapper">
-  <header id="header">
-    <nav id="nav-bar">
-      <ul>
-        <li><a class="nav-link" href="features">Features</a></li>
-        <li><a class="nav-link" href="#video">How It Works</a></li>
-        <li><a class="nav-link" href="#pricing">Pricing</a></li>
-    </ul>
-  </nav>
-  <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png">
-    <h1 class="encabezado">Handcrafted, home-made masterpieces</h1>
-  </header>
+    <header id="header">
+      <nav id="nav-bar">
+        <ul>
+          <li>
+            <a class="nav-link" href="features">Features</a>
+            <a class="nav-link" href="#video">How It Works</a>
+            <a class="nav-link" href="#pricing">Pricing</a>
+          </li>
+        </ul>
+      </nav>
+        <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png">
+        <h1 class="encabezado">Handcrafted, home-made masterpieces</h1>
+    </header>
   <hr>
   <form id="form" action="https://www.freecodecamp.com/email-submit">
   <input id="email" name="email" placeholder="Enter your email address" type="email"></input>
