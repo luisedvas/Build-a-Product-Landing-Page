@@ -7,6 +7,7 @@
     <title>Product Landing Page</title>  
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
+  <body>
   <div id="page-wrapper">
   <header id="header">
     <nav id="nav-bar">
