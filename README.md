@@ -47,7 +47,7 @@
     <div class="bass">Bass Trombone</div>
     <div class="valve">Valve Trombone</div>
   </div>
-  <footer>
+  <footer class="footer">
     <p>Privacy</p>
     <p>Terms</p>
     <p>Contact</p>
