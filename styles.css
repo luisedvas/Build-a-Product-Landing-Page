@@ -23,7 +23,8 @@
 }
 
 .nav-link {
-  text-decoration: none;  
+  text-decoration: none;
+  list-style-type: none;
 }
 
 footer {
