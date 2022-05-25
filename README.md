@@ -20,6 +20,7 @@
   <input id="email" name="email" placeholder="Enter your email address" type="email"></input>
   <input id="submit" type="submit"></input>
   </form>
+<section class="features">
 <div class="premium">
   <img class="premium-img" src="" alt="">
   <h2>Premium Materials</h2>
@@ -35,6 +36,7 @@
   <h2>Quality Assurance</h2>
   <p>For every purchase you make, we will ensure there are no damages or faults and we will check and test the pitch of your instrument.</p>
 </div>
+</section>
   <video id="video" src="https://www.youtube.com/watch?v=y8Yv4pnO7qc" width="300" type="video/mp4" controls>Trombone</video>
   <div class="container">
     <div class="tenor">Tenor Trombone</div>
