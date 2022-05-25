@@ -7,6 +7,7 @@
     <title>Product Landing Page</title>  
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
+  <div id="page-wrapper">
   <header id="header">
     <nav id="nav-bar">
       <ul>
@@ -62,5 +63,7 @@ Lorem ipsum.</p>
     <article>
     <h5>Copyright 2016, Original Trombones</h5>
     </article>
-  </footer>
+    </footer>
+   <div>
+ </body> 
 </html>
