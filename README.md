@@ -51,26 +51,22 @@
     </section>
   <section id="pricing">
     <article>
-      <p class="tenor">Tenor Trombone<br>$600<br>Lorem ipsum.
-Lorem ipsum.
-Lorem ipsum dolor.
-Lorem ipsum.</p>  
+      <p class="tenor">Tenor Trombone<br>$600<br>Lorem ipsum. Lorem ipsum. Lorem ipsum dolor. Lorem ipsum.</p> 
     </article>>
-   <article>  
-    <p class="bass">Bass Trombone</p>
-  </article>
-  <article>  
-    <p class="valve">Valve Trombone</p>
-  </article>  
-  </section>
-  <footer>
-    <p>Privacy </p>
-    <p>Terms </p>
-    <p>Contact </p>
+    <article>  
+      <p class="bass">Bass Trombone</p>
+    </article>
+    <article>  
+      <p class="valve">Valve Trombone</p>
+    </article>  
+    </section>
+    <footer>
+      <p>Privacy </p>
+      <p>Terms </p>
+      <p>Contact </p>
     <article>
-    <h5>Copyright 2016, Original Trombones</h5>
+      <h5>Copyright 2016, Original Trombones</h5>
     </article>
     </footer>
-   <div>
  </body> 
 </html>
