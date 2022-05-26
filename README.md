@@ -19,11 +19,10 @@
           </li>
         </ul>
       </nav>
-        <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png">
-        <h1 class="encabezado">Handcrafted, home-made masterpieces</h1>
+      <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png">
+      <h1 class="encabezado">Handcrafted, home-made masterpieces</h1>
     </header>
-  <hr>
-  <section class="formulario">
+  <section id="formulario">
     <form id="form" action="https://www.freecodecamp.com/email-submit">
       <input id="email" name="email" placeholder="Enter your email address" type="email"></input>
       <input id="submit" type="submit"></input>
@@ -47,12 +46,12 @@
     </div>
   </section>
     <section class="video">
-      <video id="video" src="https://www.youtube.com/watch?v=8awqH4xysj4" controls="">Trombone</video>
+      <iframe id="video" src="https://www.youtube.com/watch?v=y8Yv4pnO7qc&feature=emb_title" controls="1"></iframe>
     </section>
   <section id="pricing">
     <article>
       <p class="tenor">Tenor Trombone<br>$600<br>Lorem ipsum. Lorem ipsum. Lorem ipsum dolor. Lorem ipsum.</p> 
-    </article>>
+    </article>
     <article>  
       <p class="bass">Bass Trombone</p>
     </article>
@@ -70,3 +69,4 @@
     </footer>
  </body> 
 </html>
+
