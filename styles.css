@@ -43,11 +43,11 @@ li {
 
 }
 
-.encabezado {
+.heading-1 {
   text-align: center;
 }
 
-#form {
+#form-input {
   display: grid;
   align-items: center;
   width: 100px;
@@ -79,6 +79,7 @@ li {
   border-width: 1px;
   border-color: black;
 }
+
 .bass {
   border-style: solid;
   border-width: 1px;
