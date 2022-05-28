@@ -10,8 +10,17 @@
   display: flex;
   justify-content: right;
   list-style-type: none;
-  margin: 0;
-  padding: 10;
+  margin-left: 250px;
+  padding: 10px;
+  position: fixed;
+  background-color: gray;
+}
+
+#header-img {
+  float: top-left;
+  width: 300px;
+  margin-top: 20px;
+  padding: 10px;
 }
 
 .nav-link {
@@ -35,13 +44,7 @@ li {
   list-style-type: none;  
 }
 
-#header-img {
-  float: top-left;
-  width: 300px;
-  margin-top: -70px;
-  padding: 10px;
 
-}
 
 .heading-1 {
   text-align: center;
