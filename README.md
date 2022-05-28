@@ -10,17 +10,18 @@
   <body>
   <section id="page-wrapper">
     <header id="header">
+      <div class="logo">
+        <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png" alt="original trombone logo">
+      </div>
       <nav id="nav-bar">
         <ul>
           <li>
-            <a class="nav-link" href="features">Features</a>
+            <a class="nav-link" href="#features">Features</a>
             <a class="nav-link" href="#video">How It Works</a>
             <a class="nav-link" href="#pricing">Pricing</a>
           </li>
         </ul>
       </nav>
-      <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png">
-      <h1 class="heading-1">Handcrafted, home-made masterpieces</h1>
     </header>
   </section>
   <section id="form-input">
@@ -35,7 +36,7 @@
       <h2 class="heading-2">Premium Materials</h2>
       <p>Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of your purchase.</p>
     </div> 
-    <div class="fast">
+    <div id="fast">
       <img class="fast-img" src="" alt="">
       <h2 class="heading-2">Fast Shipping</h2>
       <p>We make sure you recieve your trombone as soon as we have finished making it. We also provide free returns if you are not satisfied.</p>
