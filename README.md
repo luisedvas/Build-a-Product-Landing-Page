@@ -1,5 +1,4 @@
 # Build-a-Product-Landing-Page
-<!-- Project #3 freeCodeCamp Responsive Certification -->
 <!DOCTYPE html>
 <html>
   <head>
