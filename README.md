@@ -26,8 +26,7 @@
         </nav>
       </header>
       <!-- Inicio del segundo DIV -->
-      <div class="container"></div>
-      
+      <div class="container"></div> 
       <section id="hero">
         <h2>Handcrafted, home-made masterpieces</h2>
         <form id="form" action="https://www.freecodecamp.com/email-submit">
@@ -58,7 +57,6 @@
               </p>
             </div>
           </div>
-      
         </section>
       </div>
     </div>
