@@ -25,7 +25,7 @@
           </ul>
         </nav>
       </header>
-      
+      <!-- Inicio del segundo DIV -->
       <div class="container"></div>
       
       <section id="hero">
@@ -35,7 +35,7 @@
           <input id="submit" type="submit" value="Get Started" class="btn">
         </form>
       </section>
-      
+      <!-- Inicio del primer DIV -->
       <div class="container">
         <section id="features">
           <div class="grid">
@@ -58,10 +58,10 @@
               </p>
             </div>
           </div>
-          
+      
         </section>
-     
       </div>
     </div>
+      <!-- Aquí quedé en la última línea de código  -->
   </body>
 </html>
