@@ -1,68 +1,67 @@
-# Build-a-Product-Landing-Page
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
-    <title>Product Landing Page</title>  
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Product Landing Page</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+      crossorigin="anonymous"
+    />      
   </head>
   <body>
-  <div id="page-wrapper">
-    <header id="header">
-      <div class="logo">
-        <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png" alt="original trombone logo">
+    <div id="page-wrapper">
+      <header id="header">
+        <div class="logo">
+          <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png" alt="original trombones logo">
+        </div>
+        <nav id="nav-bar">
+          <ul>
+            <li><a class="nav-link" href="#features">Features</a></li>
+            <li><a class="nav-link" href="#how-it-works">How It Works</a></li>
+            <li><a class="nav-link" href="#pricing">Pricing</a></li>
+          </ul>
+        </nav>
+      </header>
+      
+      <div class="container"></div>
+      
+      <section id="hero">
+        <h2>Handcrafted, home-made masterpieces</h2>
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+          <input name="email" id="email" type="email" placeholder="enter your email address" required>
+          <input id="submit" type="submit" value="Get Started" class="btn">
+        </form>
+      </section>
+      
+      <div class="container">
+        <section id="features">
+          <div class="grid">
+            <div class="icon"><i class="fa fa-3x fa-fire"</i></div>
+            <div class="desc">
+              <p>
+                Our trombones use the shiniest brass which is sourced locally.
+                This will increase the longevity of your purchase.
+              </p>
+            </div>
+          </div>
+          <div class="grid">
+            <div class="icon"><i class="fa fa-3x fa-truck"></i></div>
+            <div class="desc">
+              <h2>Fast Shipping</h2>
+              <p>
+                We make sure you recieve your trombone as soon as we have
+                finished making it. We also provide free returns if you are not
+                satisfied.
+              </p>
+            </div>
+          </div>
+          
+        </section>
+     
       </div>
-      <nav id="nav-bar">
-        <ul>
-          <li>
-            <a class="nav-link" href="#features">Features</a>
-          </li>
-          <li>
-            <a class="nav-link" href="#how-it-works">How It Works</a>
-          </li>
-          <li>
-            <a class="nav-link" href="#pricing">Pricing</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
-    <div class="container"></div>
-  <section id="hero">
-    <h2>Handcrafted, home-made masterpieces</h2>
-    <form id="form" action="https://www.freecodecamp.com/email-submit">
-      <input id="email" name="email" placeholder="Enter your email address" type="email" required></input>
-      <input id="submit" type="submit" value="Get Started" class="btn"></input>
-    </form>
-  </section>  
-  <div class="container">
-    <section id="features">
-      <div class="grid">
-        <div class="icon"></div>
-        <div class="desc"></div>
-      </div>
-      <div class="grid">
-        <div class="icon"></div>
-        <div class="desc"></div>
-      </div>
-      <div class="grid">
-        <div class="icon"></div>
-        <div class="desc"></div>
-      </div>
-    </section>   
-    <footer id="footer">
-      <ul>
-        <li>
-          <a href="#">Privacy</a>
-        </li>
-        <li>  
-          <a href="#">Terms</a>
-        </li>
-        <li>
-          <a href="#">Contact</a>
-        </li>  
-      </ul> 
-          <span>Copyright 2016, Original Trombones</span>
-    </footer>
-  </div>
- </body> 
+    </div>
+  </body>
 </html>
