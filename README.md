@@ -71,10 +71,56 @@
   </div>
 </div>
 </section>
-          
-        </section>
+<section id="how-it-works">
+  <iframe>
+    id="video" height="315" src="https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen
+  </iframe>
+</section>
+<section id="pricing"> 
+  <div class="product" id="tenor">
+    <div class="level">Tenor Trombone</div>
+    <h2>$600</h2>
+    <ol>
+      <li>Lorem Ipsum</li>
+      <li>Lorem Ipsum</li>
+      <li>Lorem Ipsum</li>
+      <li>Lorem Ipsum</li>
+    </ol>
+    <button class="btn">Select</button>
+  </div>
+  <div class="product" id="bass">
+    <div class="level">Bass Trombone</div>
+    <h2>$900</h2>
+    <ol>
+      <li>Lorem Ipsum</li>
+      <li>Lorem Ipsum</li>
+      <li>Lorem Ipsum</li>
+      <li>Lorem Ipsum</li>
+    </ol>
+    <button class="btn">Select</button>
+  </div>
+  <div class="product" id="valve">
+    <div class="level">Valve Trombone</div>
+    <h2>$1200</h2>
+    <ol>
+      <li>Plays similar to a Trumpet</li>
+      <li>Great for Jazz Bands</li>
+      <li>Lorem Ipsum dolor</li>
+      <li>Lorem Ipsum</li>
+    </ol>
+    <button class="btn">Select</button>  
+  </div>
+</section>
+<footer>
+          <ul>
+            <li><a href="#">Privacy</a></li>
+            <li><a href="#">Terms</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+          <span>Copyright 2016, Original Trombones</span>
+        </footer>
       </div>
-    </div>
-      <!-- Aquí quedé en la última línea de código  -->
+    </div>        
+ la última línea de código  -->
   </body>
 </html>
